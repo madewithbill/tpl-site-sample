@@ -77,7 +77,7 @@ div.container {
 
 div.promo-banner {
     height: 3.5rem;
-    background-image: url(/images/tpl-top-strip-desktop.jpg);
+    background-image: url(./images/tpl-top-strip-desktop.jpg);
     background-position: 50%;
     background-size: auto 100%;
     background-repeat: no-repeat;
@@ -128,7 +128,7 @@ svg.affiliate-logo {
 
 a.brand-icon {
     width: 5em;
-    background: url(/images/tpl-brand-icons.png) 100% -100% no-repeat;
+    background: url(./images/tpl-brand-icons.png) 100% -100% no-repeat;
     background-size: 15em;
 }
 
@@ -266,7 +266,7 @@ button.mobile-hamburger {
 @media (max-width:767px) {
     div.promo-banner {
         height: 15.625vw;
-        background-image: url(/images/tpl-top-strip-mobile.jpg);
+        background-image: url(./images/tpl-top-strip-mobile.jpg);
         background-size: cover;
     }
 
@@ -326,11 +326,11 @@ button.swiper-button-prev>svg {
 
 @media (max-width:767px) {
     img.swiper-slide#hero-1 {
-        content: url(/images/tpl-homepage-hero-1-mobile.jpg);
+        content: url(./images/tpl-homepage-hero-1-mobile.jpg);
     }
 
     img.swiper-slide#hero-2 {
-        content: url(/images/tpl-homepage-hero-2-mobile.jpg);
+        content: url(./images/tpl-homepage-hero-2-mobile.jpg);
     }
 }
 
